@@ -5,7 +5,7 @@ import {render, fireEvent} from '@testing-library/react';
 import '@testing-library/jest-dom/extend-expect';
 
 
-describe('teste do componente de conclusao de tarefa', ()=>{
+describe.skip('teste do componente de conclusao de tarefa', ()=>{
 
     const nomeTarefa = 'tarefa de teste';
     const tarefa = new Task(1, nomeTarefa, false);
