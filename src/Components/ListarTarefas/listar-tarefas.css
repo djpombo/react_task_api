@@ -1,0 +1,19 @@
+.btnIcon{
+    margin-right: .5rem;
+}
+
+
+button{
+    margin-right: .2rem;
+   }
+
+.paginacao{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.formFiltro{
+    display: inline;
+    background-color: aqua;
+}

@@ -1,0 +1,9 @@
+.toRight{
+    position: absolute;
+    right: 1rem;
+}
+
+.formControl{
+    width: 50% !important;
+    margin-left: 25%;
+}
